@@ -1,8 +1,6 @@
 # FHWN_SEM2_IPAV
-# IPAV Lectures
 
 ## Tech Stack
-
 ### Language
 
 * Python 3.12
